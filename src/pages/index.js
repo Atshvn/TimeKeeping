@@ -1,0 +1,17 @@
+export * from './CameraFaceDetect';
+export * from './FaceAuthentication';
+export * from './FaceRecognition';
+export * from './Home';
+export * from './ReportImages';
+export * from './CameraFaceDetectSingle';
+export * from './CameraFaceDetectSingleSsd';
+export * from './CameraFaceDetectSingleMtcnn';
+export * from './ManagerAccounts';
+export * from './UploadAudio';
+export * from './ImagesAuthentication';
+export * from'./TestBot';
+export * from'./CreateBot';
+export * from'./General/DataLocation';
+export * from'./General/DataPostOffice';
+export * from'./General/DataDeparment';
+export * from'./General/DataOfficer';
